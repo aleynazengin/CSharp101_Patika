@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.exe
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.deps.json
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.runtimeconfig.json
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.runtimeconfig.dev.json
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.dll
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\bin\Debug\net5.0\ref\ConsoleProgramming.dll
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\bin\Debug\net5.0\ConsoleProgramming.pdb
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.AssemblyInfo.cs
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.dll
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ref\ConsoleProgramming.dll
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.pdb
+C:\Users\user\Desktop\CSharp101_Patika\Calisma1\ConsoleProgramming\obj\Debug\net5.0\ConsoleProgramming.genruntimeconfig.cache

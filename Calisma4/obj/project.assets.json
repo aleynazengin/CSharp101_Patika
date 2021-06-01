@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\CSharp101_Patika\\CSharp101_Patika\\Calisma2\\Calisma2.csproj",
-      "projectName": "Calisma2",
-      "projectPath": "C:\\Users\\user\\Desktop\\CSharp101_Patika\\CSharp101_Patika\\Calisma2\\Calisma2.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\CSharp101_Patika\\CSharp101_Patika\\Calisma4\\Calisma4.csproj",
+      "projectName": "Calisma4",
+      "projectPath": "C:\\Users\\user\\Desktop\\CSharp101_Patika\\CSharp101_Patika\\Calisma4\\Calisma4.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\CSharp101_Patika\\CSharp101_Patika\\Calisma2\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\CSharp101_Patika\\CSharp101_Patika\\Calisma4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

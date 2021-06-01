@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\bin\Debug\net5.0\Calisma7.exe
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\bin\Debug\net5.0\Calisma7.deps.json
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\bin\Debug\net5.0\Calisma7.runtimeconfig.json
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\bin\Debug\net5.0\Calisma7.runtimeconfig.dev.json
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\bin\Debug\net5.0\Calisma7.dll
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\bin\Debug\net5.0\ref\Calisma7.dll
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\bin\Debug\net5.0\Calisma7.pdb
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.AssemblyInfo.cs
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.dll
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\ref\Calisma7.dll
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.pdb
+C:\Users\user\Desktop\CSharp101_Patika\CSharp101_Patika\Calisma7\obj\Debug\net5.0\Calisma7.genruntimeconfig.cache
